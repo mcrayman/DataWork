@@ -1,0 +1,68 @@
+{
+  "Label": {
+    "Last WK": 4876,
+    "2wk ago": 4876,
+    "3wk ago": 4900,
+    "4wk ago": 5052
+  },
+  "On Hand Units": {
+    "Last WK": 4876,
+    "2wk ago": 4876,
+    "3wk ago": 4900,
+    "4wk ago": 5052
+  },
+  "On Order Units": {
+    "Last WK": 0,
+    "2wk ago": 0,
+    "3wk ago": 0,
+    "4wk ago": 0
+  },
+  "In - Transit": {
+    "Last WK": 0,
+    "2wk ago": 0,
+    "3wk ago": 0,
+    "4wk ago": 0
+  },
+  "Holdout": {
+    "Last WK": 0,
+    "2wk ago": 0,
+    "3wk ago": 0,
+    "4wk ago": 0
+  },
+  "Allocated": {
+    "Last WK": 270,
+    "2wk ago": 270,
+    "3wk ago": 402,
+    "4wk ago": 270
+  },
+  "Reserved": {
+    "Last WK": 0,
+    "2wk ago": 0,
+    "3wk ago": 0,
+    "4wk ago": 0
+  },
+  "Overstock (current loc)": {
+    "Last WK": 0,
+    "2wk ago": 1078,
+    "3wk ago": 1228,
+    "4wk ago": 1374
+  },
+  "Overstock (stores)": {
+    "Last WK": 0,
+    "2wk ago": 1078,
+    "3wk ago": 1228,
+    "4wk ago": 1374
+  },
+  "# Overstocked Stores": {
+    "Last WK": 0,
+    "2wk ago": 1,
+    "3wk ago": 1,
+    "4wk ago": 1
+  },
+  "Available Units": {
+    "Last WK": 4616,
+    "2wk ago": 4606,
+    "3wk ago": 4630,
+    "4wk ago": 4650
+  }
+}
